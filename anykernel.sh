@@ -4,7 +4,7 @@
 ### AnyKernel setup
 # global properties
 properties() { '
-kernel.string=
+kernel.string=Sashimi-Next Kernel V1.5 by DaniCcimo
 do.devicecheck=1
 do.modules=0
 do.systemless=1
